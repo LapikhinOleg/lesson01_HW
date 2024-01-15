@@ -8,3 +8,7 @@ cd c:\folder_name
 Листинг текущей директории
 
 Win ''' dir
+
+Удаление файла в Win 
+
+del <filename>
