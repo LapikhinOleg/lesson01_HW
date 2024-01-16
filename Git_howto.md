@@ -3,12 +3,15 @@
 Создание Репозитория
 ```sh
 git init
-
+```
+Иные команды в GIT
+```sh
 git commit -m "Текст"
 git log
 git log --oneline
-
 git checkout <имя_ветки>
+
+```
 
 Отображение всех веток
 ```sh
