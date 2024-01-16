@@ -2,7 +2,7 @@
 
 Создание Репозитория
 ```git init
-git commit
+git commit -m "Текст"
 git log
 git log --oneline
 
