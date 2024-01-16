@@ -5,6 +5,7 @@
 git commit
 git log
 git log --oneline
+git checkout <имя ветки>
 
 Отображение всех веток
 ```sh
