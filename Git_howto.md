@@ -5,4 +5,10 @@
 git commit
 git log
 git log --oneline
-git checkout <branch_name>
+
+git checkout <имя_ветки>
+
+Отображение всех веток
+```sh
+git branch
+```
