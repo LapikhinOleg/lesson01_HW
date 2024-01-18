@@ -11,6 +11,7 @@ git log
 git log --oneline
 git checkout <имя_ветки>
 git merge <branch_name>
+git branch -a "Вывести список удаленных веток"
 ```
 
 Отображение всех веток
